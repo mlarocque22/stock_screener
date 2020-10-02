@@ -1,6 +1,12 @@
 # stock_screener
 Screens every stock on the NYSE to find undervalued ones
 
+Disclaimer:
+  I retain all rights to this source code and no one may reproduce, distribute, or create derivative works from my work.
+  
+  This is sole for educational and informative purposes. DO NOT MAKE ANY TRADES solely based off this program.
+
+
 All that is required to run this program is to have Requests installed and that all the files in this folder are included in the same directory when running it. It then
 reads a file that has the tickersfor every stock in the New York Stock Exchange on it. (I have included this text file, but since IPO's happen frequently you should 
 use an updated version for the most accurate results) It then uses requests to get the publically available information we will need for a calculations. As of the early 
