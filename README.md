@@ -23,8 +23,7 @@ under_valued_eps_debt - means that it passed the second screen and the D/E scree
 
 As of 10/2/2020 which is less than 2 weeks after the first version of this code was created. The stocks that passed the first two screens and D/E get hooked up to a 
 paper trading account and then $4,000 worth of shares are "bought". Currently the paper trading portfolio is up 4.7% in less than 2 weeks. However, since i run the 
-program twice a week and then buy more shares based off of those results, the newer stocks boughten lower that percentage. As time goes on and new purchases make up
-less and less of the overall portfolio it should give a better estimate of its performance. I will be updating this part somewhat frequently.
+program twice a week and then buy more shares based off of those results, the newer stocks that have been bought, lower that percentage. As time goes on and new purchases make up less of the overall portfolio it should give a better estimate of its performance. I will be updating this section somewhat frequently.
 
 As of this early 10/2020, I am still working on improving the third screen based on past performance, 
 and as such have not used it as a screen but instead for reference. The screen for past performance is primarily for my long term goal of then taking these
