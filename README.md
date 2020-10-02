@@ -13,13 +13,13 @@ use an updated version for the most accurate results) It then uses requests to g
 10/2020 there are 4 ratios used. 3 are calculated and explained below, the fourth one is just Debt/Equity. It then screens the stocks based on these ratios and creates
 multiple text files depending on which of the various screens it passed.
 
-under_valued_all.txt - means that it passed all three screens as well as the D/E screen\n
-under_valued_best.txt  - means that it passed the first two screens which are based on future expected values as well as the D/E screen\n
-under_valued_both.txt - means that it passed the first two screens but not necessarily the D/E screen\n
-under_valued_low_debt.txt  - means it passed the first screen as well as the D/E screen\n
-under_valued.txt  - means it passed just the first screen but not necessarily the D/E screen\n
-under_valued_eps.txt - means it passed the second screen but not neccesarily the D/E screen\n
-under_valued_eps_debt - means that it passed the second screen and the D/E screen\n
+under_valued_all.txt - means that it passed all three screens as well as the D/E screen.
+under_valued_best.txt  - means that it passed the first two screens which are based on future expected values as well as the D/E screen.
+under_valued_both.txt - means that it passed the first two screens but not necessarily the D/E screen.
+under_valued_low_debt.txt  - means it passed the first screen as well as the D/E screen.
+under_valued.txt  - means it passed just the first screen but not necessarily the D/E screen.
+under_valued_eps.txt - means it passed the second screen but not neccesarily the D/E screen.
+under_valued_eps_debt - means that it passed the second screen and the D/E screen.
 
 As of 10/2/2020 which is less than 2 weeks after the first version of this code was created. The stocks that passed the first two screens and D/E get hooked up to a 
 paper trading account and then $4,000 worth of shares are "bought". Currently the paper trading portfolio is up 4.7% in less than 2 weeks. However, since i run the 
