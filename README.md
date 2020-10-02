@@ -37,15 +37,9 @@ That way the screen is not solely relying on analyst expectations for the stock.
 seem undervalued but have massive amounts of debt. 
 
 The first ratio. Called "Ratio" or "Ratio1" , Uses the PEG 5 year value, return on equity and forward P/E. 
-The actual calculation is 
-Ratio = (1/peg + roe/forw_pe)/2
 
 The second ratio. Called "Ratio2". Uses analyst expectations for eps growth over the next year, return on equity and forward P/E. 
-The actual calculation is
-Ratio2 = ((EPS_Growth + roe)/(2*forw_pe))
 
 The third ratio called Ratio3. Uses past year EPS and current year EPS to calculate growth past growth, Return on Equity and Trailing PE. 
-The calculation is
-Ratio3 = ((past_eps_growth + roe)/(2*trail_pe))
 
 The Last ratio. Called D/E is just the debt to equity %. so a value of 50 = 50%. It is screened so that any value under 100 is considered good. 
