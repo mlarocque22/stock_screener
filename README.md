@@ -8,7 +8,7 @@ Disclaimer:
 
 
 All that is required to run this program is to have Requests installed and that all the files in this folder are included in the same directory when running it. It then
-reads a file that has the tickersfor every stock in the New York Stock Exchange on it. (I have included this text file, but since IPO's happen frequently you should 
+reads a file that has the tickers for every stock in the New York Stock Exchange on it. (I have included this text file, but since IPO's happen frequently you should 
 use an updated version for the most accurate results) It then uses requests to get the publically available information we will need for a calculations. As of the early 
 10/2020 there are 4 ratios used. 3 are calculated and explained below, the fourth one is just Debt/Equity. It then screens the stocks based on these ratios and creates
 multiple text files depending on which of the various screens it passed.
