@@ -1,5 +1,5 @@
 # stock_screener
-Screens every stock on the NYSE to find undervalued ones
+Screens every stock on the NYSE to find any that are considered undervalued.
 
 Disclaimer:
   I retain all rights to this source code and no one may reproduce, distribute, or create derivative works from my work.
