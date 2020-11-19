@@ -41,7 +41,7 @@ The third ratio called Ratio3. Uses past year EPS and current year EPS to calcul
 
 The Last ratio. Called D/E is just the debt to equity %. so a value of 50 = 50%. It is screened so that any value under 100 is considered good. 
 
-Once a stock no longer passes any of these ratios (D/E excluded) I initiated a sell in the paper trading. So far only a single stock has been sold
+Once a stock no longer passes any of these ratios (D/E excluded) I initiated a sell in the paper trading. So far only a single stock has been sold,
 EV - +59.14%
 
 To see the current portfolio list which includes purchase price, current price, and percentages. Go to the portfolio_update.txt file
