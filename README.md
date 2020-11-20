@@ -41,7 +41,13 @@ The third ratio called Ratio3. Uses past year EPS and current year EPS to calcul
 
 The Last ratio. Called D/E is just the debt to equity %. so a value of 50 = 50%. It is screened so that any value under 100 is considered good. 
 
-Once a stock no longer passes any of these ratios (D/E excluded) I initiated a sell in the paper trading. So far only a single stock has been sold,
-EV - +59.14%
+Once a stock no longer passes any of these ratios (D/E excluded) I initiated a sell in the paper trading. So far I have sold 5 stocks
+EV - Sold 103 Shares Of EV at $61.75 (6,340.26 -4,015.36 = +2,324.90 ) +59.14%
+CNC - Sold 69 shares at $62.60 (4,319.40 - 3999.24 = 320.16) + 8.01%
+LHX - Sold 22 shares at $193.80 (4,263.60 - 3.915.78 = 347.82) + 8.88%
+PFE - Sold 110 shares at $36.76 (4,043.60 - 4,007.30 = 36.3) + 0.91%
+SQM - Sold 125 shares at $45.03 (5,628.75 - 4,007.50 = 1,621.25) + 40.46%
+Total Profit = $4,650.43
 
-To see the current portfolio list which includes purchase price, current price, and percentages. Go to the portfolio_update.txt file
+
+To see the current portfolio list which includes purchase price, current price, percentages, shares, and the total values at the bottom. Go to the portfolio_update_totals.txt file
