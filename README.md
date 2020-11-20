@@ -58,3 +58,5 @@ Total Profit = $4,650.43
 
 
 To see the current portfolio list which includes purchase price, current price, percentages, shares, and the total values at the bottom. Go to the portfolio_update_totals.txt file
+
+To see the list of ratios both original and current go to ratios_update.txt
