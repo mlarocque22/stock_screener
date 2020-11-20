@@ -53,7 +53,7 @@ PFE - Sold 110 shares at $36.76 (4,043.60 - 4,007.30 = 36.3) + 0.91%
 
 SQM - Sold 125 shares at $45.03 (5,628.75 - 4,007.50 = 1,621.25) + 40.46%
 
-Total Profit = $4,650.43
+Total Profit From Sold Stocks = $4,650.43
 
 
 
