@@ -24,7 +24,7 @@ under_valued_eps_debt - means that it passed the second screen and the D/E scree
 As of 11/19/2020 which is around 2 months after the first version of this code was created. The stocks that passed the first three screens and D/E get hooked up to a 
 paper trading account and then $4,000 worth of shares are "bought". Currently the paper trading portfolio is up 20%. For reference, the DOW is up  8% and the S&P 500 is up 7.48%. However, since i run the program twice a week and then buy more shares based off of those results, the newer stocks that have been bought, lower that percentage. As time goes on and new purchases make up less of the overall portfolio it should give a better estimate of its performance. I will be updating this section somewhat frequently.
 
-As of this early 11/2020, I have added a third screen based on past performance, Any new stocks that are purchased must pass this additional screen but previous stocks that do not pass it are not sold. The screen for past performance is primarily for my long term goal of then taking these
+As of this early 10/2020, I have added a third screen based on past performance, Any new stocks that are purchased must pass this additional screen but previous stocks that do not pass it are not sold. The screen for past performance is primarily for my long term goal of then taking these
 stocks that passed through all the screens and then finding undervalued long call options with at least 6+ months of time. In addition, I plan on adding another
 screen for past performance using different metrics, likely a shorter time period since I want to use this for options.
 
