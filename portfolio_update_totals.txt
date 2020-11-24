@@ -1,3 +1,5 @@
+As of early 11/23/2020
+
 Symbol, Owned, Shares, Purchase Price, Current Price/Sold Price, Percentage, Purchase Amount, Current/Sold Value, Profit
 AIG,  y, 145, 27.53, 39.29, 42.72%,, 3991.85, 5697.05, 1705.2
 ALL, y, 43, 93.99, 101.09, 7.55%,, 4041.57, 4346.87, 305.3
